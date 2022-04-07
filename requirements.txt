@@ -1,0 +1,6 @@
+# install these using 'pip install --upgrade -r requirements.txt' 
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv
